@@ -1,6 +1,5 @@
 package pl.edu.uksw.kacperski.marcin.gralicencjacka.desktop;
 
-import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 
